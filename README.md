@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lennoxabreo
-- 👀 I’m fluent in react.js development.
-- 💞️ I’m looking to collaborate on any website development projects as of now.
-- 📫 How to reach me 
+- 👀 I’m a comp sci undergrad, majoring in Big Data with strong foundation in full Stack devlopment.
+- I am currently employed at a Crypto StartUp as a Full Stack Developer.
+- 💞️ Presently I'am grinding LeetCode to review my Past knowledge in order to collaborate on open Source Projects.
+- 📫 How to reach me:
 Email: lennabreo@gmail.com 
 LinkedIn: www.linkedin.com/in/lennox-dabre
 
